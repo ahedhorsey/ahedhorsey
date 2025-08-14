@@ -1,4 +1,5 @@
 <img src="https://github.com/ahedhorsey/ahedhorsey/blob/main/IMG_20240117_123207.gif" width="200" align="top" />
+tuffff pic of my friend
 
 # Hi there, I'm horsey 
 
