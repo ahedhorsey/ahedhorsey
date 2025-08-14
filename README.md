@@ -8,6 +8,7 @@
 - Python (main)  
 - C++  
 - Learning Rust
+- soon to be a unity-developer
 
 📝 Most of my repositories are notes from my studies.
 
