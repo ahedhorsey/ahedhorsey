@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/your-image-path-here.jpg" width="200" align="right" />
+<img src="https://github.com/ahedhorsey/ahedhorsey/blob/main/IMG_20240117_123207.gif" width="200" align="right" />
 
 # Hi there, I'm horsey 
 
