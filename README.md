@@ -1,16 +1,22 @@
-## Hi there 👋
+<img src="https://user-images.githubusercontent.com/your-image-path-here.jpg" width="200" align="right" />
 
-<!--
-**ahedhorsey/ahedhorsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm horsey 
 
-Here are some ideas to get you started:
+🎓 **Student at HTX Slagelse, ZBC**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🖥️ **Languages:**  
+- Python (main)  
+- C++  
+- Learning Rust
+
+📝 Most of my repositories are notes from my studies.
+
+🎮 **Favorite Game:** Elden Ring
+
+💬 **Discord:** `thehorse_man`
+
+---
+
+Feel free to explore my repos, connect, or drop a message!
+
+> Always learning. Sometimes coding. Often gaming.
